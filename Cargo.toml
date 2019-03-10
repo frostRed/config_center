@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "center",
+    "edge",
+    "config_center_lib"
+]

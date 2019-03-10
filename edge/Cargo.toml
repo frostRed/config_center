@@ -1,0 +1,8 @@
+[package]
+name = "edge"
+version = "0.1.0"
+authors = ["Frost Red <frostredlee@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+config_center_lib = {path = "../config_center_lib"}
